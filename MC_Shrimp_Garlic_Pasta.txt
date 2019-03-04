@@ -4,6 +4,10 @@ Menu Class: Main Course
 
 Description:
 This is simple yet irresistable. You can serve a large portion as a main dish at dinner parties.
+Serving Size: 80
+Per Person Quantity: 3 pieces 
+Total Cooking Time: 10 min
+Total Marinaing Time: 2 Hours
 
 Ingredients
 1. 8 ounces spiral pasta
